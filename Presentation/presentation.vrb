@@ -1,0 +1,13 @@
+\frametitle{Proposed Methodology}
+\textbf{Using web-scraping framework}
+\\*
+The proposed methodology is to scrape webpages using a software/framework. Here we are using "Scrapy", a framework written in python to generate and deploy spiders to extract data from a webpage
+\begin{mdframed}
+\textbf{Why Scrapy ?}
+\begin{enumerate}
+\item Faster and automated way to scrape webpages
+\item Easy to use \& implement
+\item Have selectors to specify data field needs to be extracted
+\item Have pipelines to refine extracted data
+\end{enumerate}
+\end{mdframed}
