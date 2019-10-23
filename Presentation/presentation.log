@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.12)  18 OCT 2019 13:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.12)  23 OCT 2019 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1126,11 +1126,11 @@ Package mdframed Info: mdframed inside a box
 <custom-web-scraping-624x301.png, id=178, 626.34pt x 302.12875pt>
 File: custom-web-scraping-624x301.png Graphic file (type png)
 <use custom-web-scraping-624x301.png>
-Package pdftex.def Info: custom-web-scraping-624x301.png  used on input line 13
-9.
+Package pdftex.def Info: custom-web-scraping-624x301.png  used on input line 14
+5.
 (pdftex.def)             Requested size: 313.16922pt x 151.064pt.
 
-Overfull \hbox (5.87935pt too wide) in paragraph at lines 139--139
+Overfull \hbox (5.87935pt too wide) in paragraph at lines 145--145
 [][]  
  []
 
@@ -1142,10 +1142,10 @@ Overfull \hbox (5.87935pt too wide) in paragraph at lines 139--139
 <IMG_20191017_083215.jpg, id=233, 1084.05pt x 1658.195pt>
 File: IMG_20191017_083215.jpg Graphic file (type jpg)
 <use IMG_20191017_083215.jpg>
-Package pdftex.def Info: IMG_20191017_083215.jpg  used on input line 153.
+Package pdftex.def Info: IMG_20191017_083215.jpg  used on input line 159.
 (pdftex.def)             Requested size: 130.08038pt x 198.97481pt.
 
-Overfull \vbox (7.23746pt too high) detected at line 153
+Overfull \vbox (7.23746pt too high) detected at line 159
  []
 
 [9
@@ -1162,18 +1162,18 @@ Overfull \vbox (7.23746pt too high) detected at line 153
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 171.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 171.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  27285 strings out of 494518
  528580 string characters out of 6176312
- 592876 words of memory out of 5000000
+ 593876 words of memory out of 5000000
  30522 multiletter control sequences out of 15000+600000
  534795 words of font info for 32 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -1182,7 +1182,7 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on presentation.pdf (10 pages, 276786 bytes).
+Output written on presentation.pdf (10 pages, 277426 bytes).
 PDF statistics:
  305 PDF objects out of 1000 (max. 8388607)
  277 compressed objects within 3 object streams
