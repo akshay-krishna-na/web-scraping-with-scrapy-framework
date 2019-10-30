@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for test1 project
+# Scrapy settings for fisat project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,15 +9,16 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'test1'
+BOT_NAME = 'fisat'
 
-SPIDER_MODULES = ['test1.spiders']
-NEWSPIDER_MODULE = 'test1.spiders'
+SPIDER_MODULES = ['fisat.spiders']
+NEWSPIDER_MODULE = 'fisat.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'test1 (+http://www.yourdomain.com)'
+#USER_AGENT = 'fisat (+http://www.yourdomain.com)'
 USER_AGENT = 'Mozilla/5.0 (compatible& Googlebot/2.1& +http://www.google.com/bot.html)'
+
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
@@ -47,13 +48,13 @@ ROBOTSTXT_OBEY = False
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'test1.middlewares.Test1SpiderMiddleware': 543,
+#    'fisat.middlewares.FisatSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'test1.middlewares.Test1DownloaderMiddleware': 543,
+#    'fisat.middlewares.FisatDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +66,7 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'test1.pipelines.Test1Pipeline': 300,
+#    'fisat.pipelines.FisatPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

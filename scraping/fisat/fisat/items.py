@@ -8,8 +8,7 @@
 import scrapy
 
 
-class Test1Item(scrapy.Item):
+class FisatItem(scrapy.Item):
     # define the fields for your item here like:
-    name = scrapy.Field()
-    price = scrapy.Field()
-    category = scrapy.Field()
+    # name = scrapy.Field()
+    data = scrapy.Field()
